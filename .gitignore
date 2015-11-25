@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+make sure to ignore all unused programs!!!
+.gitignore
+.git
+.idea/
+
